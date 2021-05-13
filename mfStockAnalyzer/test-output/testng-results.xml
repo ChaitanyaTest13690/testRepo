@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58718" started-at="2021-05-12T14:48:50 IST" finished-at="2021-05-12T14:49:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58718" started-at="2021-05-12T14:48:50 IST" finished-at="2021-05-12T14:49:49 IST">
+      <class name="TestCases.amcIdentification2">
+        <test-method status="PASS" signature="browserSettings()[pri:0, instance:TestCases.amcIdentification2@5bcea91b]" name="browserSettings" is-config="true" duration-ms="46064" started-at="2021-05-12T14:48:50 IST" finished-at="2021-05-12T14:49:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSettings -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="10" started-at="2021-05-12T14:49:38 IST" data-provider="testData" finished-at="2021-05-12T14:49:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_No]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test_Step]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test Case Name]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test Step Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Module]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Test Step]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Test Step Desc]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exp Result]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Act Result]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[End Type]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Scheme]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Cap]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[AMC ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="4925" started-at="2021-05-12T14:49:38 IST" data-provider="testData" finished-at="2021-05-12T14:49:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Case 1 Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MF Stock Analyzer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="4946" started-at="2021-05-12T14:49:43 IST" data-provider="testData" finished-at="2021-05-12T14:49:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Case 1 Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MF Stock Analyzer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Step 1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Step Desc 1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exp 1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Act 1]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Open-ended]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="1" started-at="2021-05-12T14:49:48 IST" data-provider="testData" finished-at="2021-05-12T14:49:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Case 1 Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MF Stock Analyzer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Step 2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Step Desc 2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exp 2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Act 2]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Equity]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="2" started-at="2021-05-12T14:49:48 IST" data-provider="testData" finished-at="2021-05-12T14:49:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Case 1 Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MF Stock Analyzer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Step 3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Step Desc 3]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exp 3]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Act 3]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Small Cap]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="amfiURLAccessCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.amcIdentification2@5bcea91b]" name="amfiURLAccessCheck" duration-ms="2" started-at="2021-05-12T14:49:48 IST" data-provider="testData" finished-at="2021-05-12T14:49:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Case 1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Case 1 Desc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MF Stock Analyzer]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Step 4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Step Desc 4]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exp 4]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Act 4]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[All]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amfiURLAccessCheck -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestCases.amcIdentification2@5bcea91b]" name="TearDown" is-config="true" duration-ms="1145" started-at="2021-05-12T14:49:48 IST" finished-at="2021-05-12T14:49:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.amcIdentification2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
